@@ -1,0 +1,9 @@
+export QUANDL_API_KEY="RhkKsYkmkHD_UnXBH3Hx"
+echo $QUANDL_API_KEY;
+export ALPACA_API_KEY="PK61UCIZ2ESR5Z4XR0CF"
+echo $ALPACA_API_KEY;
+export ALPACA_SECRET_KEY="eveV5cl0wxMrojUiXCOCZSoxcvf5pFtvf5r3F591"
+echo $ALPACA_SECRET_KEY;
+export MAPBOX_API_KEY="pk.eyJ1IjoidGF5bG9ydHVja2VyIiwiYSI6ImNrazl2Ym1kazA5eHYybnIxMGRndXRzc3oifQ.nirqSsckN78uVb7rH8aXjg"
+echo $MAPBOX_API_KEY;
+code .;
